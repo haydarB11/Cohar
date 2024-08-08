@@ -1,0 +1,8 @@
+{
+	"user_type": ["user", "manager", "supervisor"],
+    "url_type": ["image", "pdf", "text"],
+    "question_type": ["question", "exercise"],
+    "year": ["first", "second", "third", "fourth", "fifth", "sixth", "graduated"],
+    "gender": ["male", "female"],
+    "model": ["A", "B"]
+}
